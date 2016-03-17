@@ -1,0 +1,2 @@
+<img src="images/shopping.gif" alt="" width="24" height="24" class="shopping" />																																																																									
+<p>Shopping cart</p> <p><strong>0</strong> <span>items</span></p>
